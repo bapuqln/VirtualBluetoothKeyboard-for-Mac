@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0001 - ServiceClassIDList</key>
+	<array>
+		<data>EgA=</data>
+	</array>
+	<key>0004 - ProtocolDescriptorList</key>
+	<array>
+		<array>
+			<data>AQA=</data>
+			<dict>
+				<key>DataElementSize</key>
+				<integer>2</integer>
+				<key>DataElementType</key>
+				<integer>1</integer>
+				<key>DataElementValue</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<array>
+			<data>AAE=</data>
+		</array>
+	</array>
+	<key>0009 - BluetoothProfileDescriptorList</key>
+	<array>
+		<array>
+			<data>EgA=</data>
+			<dict>
+				<key>DataElementSize</key>
+				<integer>2</integer>
+				<key>DataElementType</key>
+				<integer>1</integer>
+				<key>DataElementValue</key>
+				<integer>256</integer>
+			</dict>
+		</array>
+	</array>
+	<key>0200 - SpecificationID</key>
+	<dict>
+		<key>DataElementSize</key>
+		<integer>2</integer>
+		<key>DataElementType</key>
+		<integer>1</integer>
+		<key>DataElementValue</key>
+		<integer>256</integer>
+	</dict>
+	<key>0201 - VendorID</key>
+	<dict>
+		<key>DataElementSize</key>
+		<integer>2</integer>
+		<key>DataElementType</key>
+		<integer>1</integer>
+		<key>DataElementValue</key>
+		<integer>1452</integer>
+	</dict>
+	<key>0202 - ProductID</key>
+	<dict>
+		<key>DataElementSize</key>
+		<integer>2</integer>
+		<key>DataElementType</key>
+		<integer>1</integer>
+		<key>DataElementValue</key>
+		<integer>557</integer>
+	</dict>
+	<key>0203</key>
+	<dict>
+		<key>DataElementSize</key>
+		<integer>2</integer>
+		<key>DataElementType</key>
+		<integer>1</integer>
+		<key>DataElementValue</key>
+		<integer>304</integer>
+	</dict>
+	<key>0204</key>
+	<dict>
+		<key>DataElementSize</key>
+		<integer>1</integer>
+		<key>DataElementType</key>
+		<integer>5</integer>
+		<key>DataElementValue</key>
+		<integer>1</integer>
+	</dict>
+	<key>0205</key>
+	<dict>
+		<key>DataElementSize</key>
+		<integer>2</integer>
+		<key>DataElementType</key>
+		<integer>2</integer>
+		<key>DataElementValue</key>
+		<integer>2</integer>
+	</dict>
+</dict>
+</plist>
